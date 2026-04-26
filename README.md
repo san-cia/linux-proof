@@ -1,5 +1,5 @@
 # Installation Notes
-> Note: This installation is for Kali Linux as the main OS and not dual boot!
+> Note: This installation is to use Kali Linux as the main OS and not dual boot!
 
 ##### Preparation:
 - Install [Rufus](https://rufus.ie/en/), to create a bootable USB.
