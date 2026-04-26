@@ -14,3 +14,5 @@
 ##### Post-Installation:
 - Once installation is complete, move Kali Linux boot entry to top.
 - Login using credentials created during installation.
+
+<img width="1920" height="1080" alt="kalilinuxboot" src="https://github.com/user-attachments/assets/19c4fefc-0ec7-4b62-ab06-9b4c07ae8806" />
